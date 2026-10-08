@@ -3,8 +3,8 @@ title: 我的第一篇博客
 published: 2026-10-08
 description: ''
 image: ./images/hello-world-cover.webp
-tags: []
-category: ''
+tags: ["博客", "开篇"]
+category: "随笔"
 draft: false
 lang: ''
 slug: hello-world
